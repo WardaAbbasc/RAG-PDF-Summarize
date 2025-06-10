@@ -30,9 +30,3 @@ This project is a **Retrieval-Augmented Generation (RAG)** pipeline that summari
 
 ---
 
-## 🚀 Setup Instructions
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/pdf-rag-summarizer.git
-cd pdf-rag-summarizer
