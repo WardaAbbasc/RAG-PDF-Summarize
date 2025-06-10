@@ -1,4 +1,5 @@
-# RAG-PDF-Summarize
+# 📄 RAG-based PDF Document Summarizer
+
 This project is a **Retrieval-Augmented Generation (RAG)** pipeline that summarizes PDF documents using **semantic search** and a **local LLM**. It combines **FAISS** for embedding storage, **Mistral** as the summarizer via **Ollama**, and a simple **Streamlit UI** for interaction.
 
 ---
